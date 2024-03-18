@@ -40,7 +40,7 @@ monofont: Arial
   * НПИбд-01-22
   * Российский университет дружбы народов
   * [1132222005@pfur.ru]
-  * <https://github.com/VARdamn/study_2023-2024_infosec>
+  * <https://github.com/VARdamn/oib>
   
 # Вводная часть
 
